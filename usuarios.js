@@ -1,0 +1,1 @@
+function obtenerUsuario() { return 'admin'; }
